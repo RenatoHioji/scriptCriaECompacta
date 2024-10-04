@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NOME_PSATA=$1
+NOME_PASTA=$1
 
 mkdir "$NOME_PASTA"
 
